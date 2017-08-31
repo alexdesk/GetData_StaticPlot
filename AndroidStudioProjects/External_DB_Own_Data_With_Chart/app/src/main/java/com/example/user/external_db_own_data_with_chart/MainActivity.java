@@ -63,7 +63,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     TextView resultado;
 
     // IP de mi Url
-    String IP = "http://79.153.3.182";
+    String IP = "http://tfgalexhost.hopto.org";
     // Rutas de los Web Services
     String GET = IP + "/obtener_alumnos.php";
     //String GET_BY_ID = IP + "/obtener_alumno_por_id.php";
